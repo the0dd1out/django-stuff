@@ -1,3 +1,5 @@
-If pip doesn't install django on to your machine directly, shows this comment "django-admin is not recognized as an internal or external command", then follow this tutorial and create a virtual environment to install django:
+1) Do a "pip install django" or "pip3 install django"
+
+2) If pip doesn't install django on to your machine directly, shows this comment "django-admin is not recognized as an internal or external command", then follow this tutorial and create a virtual environment to install django:
 
 https://www.youtube.com/watch?v=EwJoN-G3w-s
